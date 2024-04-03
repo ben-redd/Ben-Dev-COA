@@ -1,5 +1,15 @@
 defaultStorageMapping: DESTINATION
-installedPackages: {}
+installedPackages:
+  March-28th-Package-From-Renee-with-a-really-long-alias-that-will-hopefully-be-truncated-and-have-a-tooltip-that-just-keeps-going-on-and-on-and-on-for-way-too-long-OK-this-is-getting-ridiculous:
+    config:
+      entities:
+        nodeTypes:
+          "25":
+            defaultStorageLocation: null
+            isDisabled: false
+      packageVariables: ""
+    packageID: "@coalesce/mar-28-test-321"
+    releaseID: ce2c285d-9370-49ef-be3f-80311c3897c5
 jobs: {}
 locations:
   DESTINATION:
