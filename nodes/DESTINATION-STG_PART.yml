@@ -143,6 +143,27 @@ operation:
               - columnCounter: b1a3effc-387e-498a-b703-d3a40cef20cb
                 stepCounter: dfa7b2d4-432d-402e-80eb-23946e1b7619
             transform: ""
+      - acceptedValues:
+          strictMatch: true
+          values: []
+        appliedColumnTests: {}
+        columnReference:
+          columnCounter: d8a095e5-52d1-4df4-ade3-dc455ed2ad66
+          stepCounter: 16b8c48a-9657-4cc9-b9ec-ee73c7466ddd
+        config: {}
+        dataType: VARCHAR(22)
+        defaultValue: ""
+        description: ""
+        keyColumnType: None
+        name: P_BAD_BOI
+        nullable: true
+        sourceColumnReferences:
+          - columnReferences:
+              - columnCounter: "0"
+                stepCounter: "0"
+            transform: ""
+        systemColumnType: None
+        transform: ""
     cteString: ""
     enabledColumnTestIDs: []
     sourceMapping:
