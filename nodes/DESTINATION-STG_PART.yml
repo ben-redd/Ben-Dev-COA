@@ -153,14 +153,14 @@ operation:
           values: []
         appliedColumnTests: {}
         columnReference:
-          columnCounter: d8a095e5-52d1-4df4-ade3-dc455ed2ad66
+          columnCounter: 2e8c12ce-fb3f-46a4-b612-d97f4074db17
           stepCounter: 16b8c48a-9657-4cc9-b9ec-ee73c7466ddd
         config: {}
         dataType: ""
         defaultValue: ""
         description: ""
         keyColumnType: None
-        name: P_BAD_BOI
+        name: BAD_COLUMN
         nullable: true
         sourceColumnReferences:
           - columnReferences:
