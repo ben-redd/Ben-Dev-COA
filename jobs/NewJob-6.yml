@@ -1,0 +1,6 @@
+excludeSelector: ""
+fileVersion: 1
+id: "6"
+includeSelector: "{ location: SOURCE name: NATION } OR { location: DESTINATION name: STG_NATION }"
+name: New Job
+type: Job
