@@ -87,6 +87,63 @@ operation:
               - columnCounter: eda10963-1226-4770-bdb3-18d077076295
                 stepCounter: 8b6fdb8f-394f-42fc-bf77-9218a8bb6d0b
             transform: ""
+      - acceptedValues:
+          strictMatch: true
+          values: []
+        appliedColumnTests: {}
+        columnReference:
+          columnCounter: f527e8c8-0d8a-41c3-9478-b875e8e428ac
+          stepCounter: 0ca378de-6d6f-4de5-bb11-bd67e72abbb2
+        config: {}
+        dataType: STRING
+        defaultValue: ""
+        description: ""
+        hashDetails:
+          hashAlgorithm: SHA1
+        hashedColumns:
+          - columnCounter: f22ed780-336e-40a1-ad49-45f84af1a5a9
+            stepCounter: 0ca378de-6d6f-4de5-bb11-bd67e72abbb2
+        name: GH
+        nullable: true
+        sourceColumnReferences: []
+      - acceptedValues:
+          strictMatch: true
+          values: []
+        appliedColumnTests: {}
+        columnReference:
+          columnCounter: fd055b3b-1d43-449c-afb1-255a612a5793
+          stepCounter: 0ca378de-6d6f-4de5-bb11-bd67e72abbb2
+        config: {}
+        dataType: STRING
+        defaultValue: ""
+        description: ""
+        hashDetails:
+          hashAlgorithm: SHA1
+        hashedColumns:
+          - columnCounter: f22ed780-336e-40a1-ad49-45f84af1a5a9
+            stepCounter: 0ca378de-6d6f-4de5-bb11-bd67e72abbb2
+        name: GH1
+        nullable: true
+        sourceColumnReferences: []
+      - acceptedValues:
+          strictMatch: true
+          values: []
+        appliedColumnTests: {}
+        columnReference:
+          columnCounter: 891d5350-de74-46a4-b964-625d32b84319
+          stepCounter: 0ca378de-6d6f-4de5-bb11-bd67e72abbb2
+        config: {}
+        dataType: STRING
+        defaultValue: ""
+        description: ""
+        hashDetails:
+          hashAlgorithm: SHA1
+        hashedColumns:
+          - columnCounter: f22ed780-336e-40a1-ad49-45f84af1a5a9
+            stepCounter: 0ca378de-6d6f-4de5-bb11-bd67e72abbb2
+        name: GH2
+        nullable: true
+        sourceColumnReferences: []
     cteString: ""
     enabledColumnTestIDs: []
     sourceMapping:
