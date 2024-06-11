@@ -19,7 +19,7 @@ operation:
   materializationType: table
   metadata:
     appliedNodeTests:
-      - continueOnFailure: true
+      - continueOnFailure: false
         description: ""
         name: Test
         runOrder: After
