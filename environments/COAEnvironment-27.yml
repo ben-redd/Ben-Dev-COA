@@ -3,7 +3,7 @@ id: "27"
 mappingDefinitions:
   DESTINATION:
     database: BEN_EDW
-    schema: invalid
+    schema: PREVIEW.QA_COA_ENV
   SOURCE:
     database: COALESCE_SAMPLE_DATABASE
     schema: TPCH_SF001
